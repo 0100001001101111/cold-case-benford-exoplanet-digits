@@ -1,0 +1,162 @@
+{
+  "catches": [
+    {
+      "id": "C950",
+      "path": "/Users/bo/Documents/Brain/Jumps/C950.md",
+      "sha256": "8b9b930a410e1b8ef1715070a6c10c75d70f0de6c28777ef6a844b9c99af4222"
+    },
+    {
+      "id": "C952",
+      "path": "/Users/bo/Documents/Brain/Jumps/C952.md",
+      "sha256": "8ba766cc11fc81e75524db04a075203c3ef3d428f7c40d119eb3827002d9eb4d"
+    },
+    {
+      "id": "C954",
+      "path": "/Users/bo/Documents/Brain/Jumps/C954.md",
+      "sha256": "73a106dd617989039cd392237dfda99d803db6cdac497f5324a8f4988f485ce3"
+    },
+    {
+      "id": "C955",
+      "path": "/Users/bo/Documents/Brain/Jumps/C955.md",
+      "sha256": "90e5361d69117399c1e7b55cc712ee72a6389ae685ca6d397fbba57fc49dfdcd"
+    }
+  ],
+  "evidence": [
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/00_intake/CRACK_REGISTER.json",
+      "sha256": "eb20b5d9ee79ae94127aff21ea4f6ffc590c94a80bc54d13799bf307e0072695"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/01_prereg/FACILITY_SCHEMA_RECOVERY_KNOWN_ANSWERS_V5.json",
+      "sha256": "a71f391d5d073e443335ea16a347caf2def2feccd31dfb825c2e39632160cf1b"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/01_prereg/FROZEN_IMPLEMENTATION_RECOVERY_MANIFEST_V5.json",
+      "sha256": "b742d6d7daa2304a7a0156019b5f276b09adfde5cd6459cffd119dbcf8a0c845"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/01_prereg/PREREGISTRATION_V2.json",
+      "sha256": "fd086dec043b16effe11ee520b2e94865827d950c3e3cba5f36107e18601e163"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/02_data/target_snapshot_v1/ACQUISITION_RECEIPT_V3.json",
+      "sha256": "c37fd0d634195a98271d53617d2f10dcfe0ef985e45dc92711b3582b6313cbf1"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/03_results/RESULTS_V1.json",
+      "sha256": "613a0595da0d8212ef87778b755842a4b0f18136c6f00a787106f3ceaeb43c71"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/03_results/RESULT_HASHES_V1.json",
+      "sha256": "24a58676422681ed6fdffa328b9ddee13bbeb1a5ba7884ff44b9ef45a721988e"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/04_review/CLOSEOUT_ATTACK_SURFACE.md",
+      "sha256": "1d4709cb9a30f9d20d60e80e2143e750570126f6f5e7d09a4a2b7352df2147a3"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/04_review/G26_GROK_PACKET_INSPECT_RECEIPT.json",
+      "sha256": "35b55d749cd5298b3b8ed24a855463d74f6d0fe786077a4338ecff85998cc6be"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/04_review/GROK_PANEL_STATUS.json",
+      "sha256": "c95691b9e6c9d185760dc7c2e2701ed2e6e3eaca1857d0e738339840cd2aa4c6"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/04_review/INDEPENDENT_REPLAY_V5.json",
+      "sha256": "42e3073539a019a3541818ad8e592d9fe43f8633197c1afde7ad2161e062084b"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/04_review/NOVELTY_AUDIT.md",
+      "sha256": "1cb873eac5ed94277737c0cba63cd4b2998e84feb0c799b9c3907755f4567b16"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/04_review/NOVELTY_VERDICT.json",
+      "sha256": "19e0062063894cd070b066649be487e8596465d1491339fe0d3ffbd65aee2753"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/FINDING_EXPANSION.json",
+      "sha256": "03cad7af30fd9ccea1feebb8f314cbbe6b7a29d030ac488cfc97309937dc2660"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/FINDING_EXPANSION_TEMPLATE.json",
+      "sha256": "144dfac5c6b26b8bd1f69ed85314582900d7d202225fb7486de3dd1d1b35e016"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/NOVELTY_AUDIT.json",
+      "sha256": "2749821069e02ca22e70cc4358df3d850f78c3a67e924353060a3e92407f4d1b"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/POSTABILITY.md",
+      "sha256": "db4deb6229b7aca718ba5759ffbf5ace949d73f94a646cba05380a566f6244c7"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/REPORT.json",
+      "sha256": "0c69c0ff11aea8926ccee474f505a7c1204ed3b6cdf954a6d7ca5658e78bec41"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/REPORT.md",
+      "sha256": "0d9b1b167fc1bbc43e226a6c2bd8b527d14f82bbe9cf57db47ba21b8c02938c5"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/receipts/jump_memory/recovery-benford-selection-sensitive-null-v1/JUMP_APPLICATION.json",
+      "sha256": "776b20e475e235f1d1f47f9eedd629156b99c508c0ad4b73e22198f6841749ad"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/receipts/jump_memory/recovery-benford-selection-sensitive-null-v1/JUMP_PREFLIGHT.json",
+      "sha256": "bb31b74bea93cda08c27aecfc7a1a6318055d773bffd111c667d9555faaff961"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/receipts/recovery_facility_key_v5/G25_CONTINUITY_ROUTE_VALIDATION.json",
+      "sha256": "4d44e4ab13df124e8d7195cb72c98d33997a82c66b5584d7daea986c2e92ea58"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/receipts/recovery_facility_key_v5/V5_RUN_AUTHORIZATION.json",
+      "sha256": "572c2e84772ea5b1c189e46311eecd64dc69a5062c805709f75b5dc206d2d202"
+    }
+  ],
+  "failure_artifacts": [
+    {
+      "failure_class": "SUBSTANTIVE_GATE_REJECTION",
+      "failure_fingerprint": "5ef9992275cc3748b906d66da5dcd838d97d25d4253813a3ced9b9a2b40dcef9",
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/failures/5ef9992275cc3748b906d66da5dcd838d97d25d4253813a3ced9b9a2b40dcef9.json",
+      "sha256": "69824d6f163d0a8b8b9c00482ff85181f4f8c3b4f4a4bd40234458459fc46a90"
+    }
+  ],
+  "investigation": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1",
+  "learned": true,
+  "memory_sources": {
+    "jump_index_manifest_sha256": "ab179b9bc185fa082236b11ce8dc355ffafbb803c4172d766dafb6157036fafb",
+    "jump_record_count": 1006
+  },
+  "narrative": {
+    "counterfactual_test": "The old facility result path must raise KeyError on the normal branch while V5 passes both normal and low-sample fixtures. A smooth nonuniform log-period plant must reject raw Benford but fail promotion under the cross-era null. Any deletion or byte change to the finding packet, report, novelty record, postability verdict, result, replay, or review evidence must make the live completion gate fail.",
+    "next_route": "Do not retry the same snapshot. Keep one narrower route at WATCH: freeze an external survey-specific completeness model or a prospective later archive cutoff, predict untouched digit counts without fitting those rows, and apply the same practical margin after fresh G25, Jump, hunting-pattern, power, preregistration, known-answer, novelty, and independent-review gates.",
+    "previous_attempt": "The V2 scientific route was preserved through two schema recoveries. V4 reached the unchanged target files but failed before it wrote a result because the normal facility branch omitted the remaining_n field required by its shared consumer.",
+    "structural_change": "V5 added only the missing common facility field and proved the old failure and repaired branches on target-free fixtures. The run also retained the earlier exact-Decimal repair, current NASA table schema, frozen scientific thresholds, full selection response surface, independent 200,000-draw replay, novelty audit, and Grok review. No target, threshold, seed, or scientific rule changed after outcomes opened.",
+    "why_it_failed_or_changed": "The completed run found raw departures overall, for Transit, and for Radial Velocity. Every branch failed at least one load-bearing selection-control requirement. Imaging and Microlensing were below the frozen inferential minimum. Direct and close prior work made the broad result a rediscovery. The valid ending is therefore an informative null, not a promoted Benford, causal-selection, or archive-integrity finding."
+  },
+  "outcome": "INFORMATIVE_NULL",
+  "prior_route_ids": [
+    "BENFORD-PERIODS-V1",
+    "BENFORD-PERIODS-PS-SCHEMA-RECOVERY-V3"
+  ],
+  "receipt_sha256": "d9131cec3eecc3d843c705e8fea22a7f6e79e8ae9e9ef269bc086009873e682e",
+  "review_artifacts": [
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/04_review/CODEX_ADJUDICATION.md",
+      "sha256": "5aeb719ad1ccf4c54e141a5c5ca305aa140eaf4ddc73dc911a557c6625829c47"
+    },
+    {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/04_review/GROK_REVIEW.md",
+      "sha256": "7788b33bdfb68311c5adc3e06da6d94a004bfdcce191732d80fda959bd66f983"
+    }
+  ],
+  "review_status": "REVIEWED",
+  "route_id": "BENFORD-PERIODS-FACILITY-SCHEMA-RECOVERY-V5",
+  "schema": "aletheia.run-lesson-closeout.v1",
+  "spec": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/RUN_LESSON_CLOSEOUT_SPEC.json",
+    "sha256": "dcd3d3192b053be3dc51b1f5709a82989b8e835cac953dc62336f5cc76f664db"
+  }
+}

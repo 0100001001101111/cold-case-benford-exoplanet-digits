@@ -1,0 +1,26 @@
+{
+  "audited_at_utc": "2026-08-26T05:29:55Z",
+  "claim_authority": "NONE",
+  "exact_snapshot_match_found": false,
+  "known_positive_control": {
+    "expected_identifier": "10.1016/j.newast.2021.101654",
+    "passed": true
+  },
+  "mechanism_known": false,
+  "novelty_audit": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/04_review/NOVELTY_AUDIT.md",
+    "sha256": "1cb873eac5ed94277737c0cba63cd4b2998e84feb0c799b9c3907755f4567b16"
+  },
+  "object_known": "NOT_APPLICABLE_CATALOG_WIDE_DISTRIBUTION",
+  "phenomenon_known": true,
+  "prior_identifiers": [
+    "arXiv:1606.05678",
+    "10.1007/s12036-017-9427-z",
+    "VUB-2019-EXTENDED-BENFORD-EXOPLANET-PERIODS",
+    "10.1016/j.newast.2021.101654",
+    "clawRxiv:2604.00703"
+  ],
+  "same_measurement_known_at_broad_scale": true,
+  "schema": "aletheia.prior-discovery-audit.v1",
+  "verdict": "REDISCOVERY_NOT_NOVEL"
+}

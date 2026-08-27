@@ -1,0 +1,112 @@
+{
+  "claim_authority": "NONE",
+  "code": [
+    {
+      "path": "/Users/bo/data/adp/basanos/benford_exoplanet_verifier.py",
+      "sha256": "87850c21b872ff538e940e58f9ac19129e80078e22c54383e1fff2818342ef5f"
+    },
+    {
+      "path": "/Users/bo/data/adp/scripts/acquire_benford_exoplanet_snapshot_20260825.py",
+      "sha256": "ad2a48ba9569d72d587b6cc717ebcbc40393a9405a7735ba132a4dfeab798dec"
+    },
+    {
+      "path": "/Users/bo/data/adp/scripts/run_benford_exoplanet_analysis_20260825.py",
+      "sha256": "e22e7a0eef3f8029e32ffcdbcee79d6693a76c82248ec687ae1157934a69fab6"
+    },
+    {
+      "path": "/Users/bo/data/adp/scripts/independent_replay_benford_exoplanet_20260825.py",
+      "sha256": "9d7e60d0b0897cf29413ece11ff09cf7bf93359a949ee4f25c25533449546466"
+    },
+    {
+      "path": "/Users/bo/data/adp/scripts/acquire_benford_exoplanet_snapshot_v2_20260825.py",
+      "sha256": "f8a4a660a87b1c763e87ba36464aed9ff46c1b8cafb09876b36b6387a6a349dc"
+    },
+    {
+      "path": "/Users/bo/data/adp/scripts/run_benford_exoplanet_analysis_v2_20260825.py",
+      "sha256": "0013614c0a19c8960ca7865fe79f79588f567573ffa7ff30023daf4f40957562"
+    },
+    {
+      "path": "/Users/bo/data/adp/scripts/independent_replay_benford_exoplanet_v2_20260825.py",
+      "sha256": "92acd2cc90bfb5c2c24db2c7562a873c887f46930867c45225c65c16f22ac8ee"
+    },
+    {
+      "path": "/Users/bo/data/adp/scripts/freeze_benford_exoplanet_route_v2_20260825.py",
+      "sha256": "e03292f8119ed36b8743662b5ed086bb47c9a5eaa9b39f0831a68cd7c2781898"
+    }
+  ],
+  "formalizability": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/00_intake/FORMALIZABILITY.json",
+    "sha256": "b47daceef725c8b1601158ab9e308f39233684a965bdcd99d9399f4fea93e19a"
+  },
+  "frozen_at_utc": "2026-08-26T04:51:06.052338+00:00",
+  "hunting_pattern_receipt": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/prospecting_v1/HUNTING_PATTERN_RECEIPT.json",
+    "sha256": "14ea2f9dbda57ae29af49a846722f46da114db99fd7f9f5220cb90fe07b20bd8"
+  },
+  "jump_memory_source": {
+    "application": {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/receipts/jump_memory/benford-periods-v1/JUMP_APPLICATION.json",
+      "sha256": "c043f5ec94481171f40c6ba1d9fd2bef3f9c026d66b334ae15ef68d1257a259e"
+    },
+    "preflight": {
+      "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/receipts/jump_memory/benford-periods-v1/JUMP_PREFLIGHT.json",
+      "sha256": "6d1f0b48a6fa3101193154975fc52af284f630337116277be50a03f449ada5ed"
+    },
+    "supplemented_ids": [
+      "C945",
+      "C946",
+      "C947",
+      "C948",
+      "C949"
+    ],
+    "unresolved_items": 0
+  },
+  "known_answer_inputs": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/01_prereg/KNOWN_ANSWER_INPUTS_V1.json",
+    "sha256": "d557554bf1ef5cc8b5833cdd25715c6dfaa4e224470405ce17336592f8e82be8"
+  },
+  "known_answer_outputs": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/01_prereg/KNOWN_ANSWER_OUTPUTS_V1.json",
+    "sha256": "1323d963c26cc4b06f6f06e1b6e4b1fb02edffb272983ec4f685d946cfcfc0b4"
+  },
+  "prereg_validation": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/01_prereg/PREREG_VALIDATION_V2.json",
+    "sha256": "cdbeda3b642fddef58fee02f2e0870a35bd433cdd40f8980d088d4ce8c87a5c7"
+  },
+  "preregistration": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/01_prereg/PREREGISTRATION_V2.json",
+    "sha256": "fd086dec043b16effe11ee520b2e94865827d950c3e3cba5f36107e18601e163"
+  },
+  "prior_attempt": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/01_prereg/FROZEN_MANIFEST_V1.json",
+    "sha256": "f13ce765cc42e775f0dbeb9659ed7b1c809b1a4167a7c2551d49016e8edffa83"
+  },
+  "prior_investigation_gate": {
+    "path": "/Users/bo/data/adp/goals/receipts/benford_exoplanet_periods_2026-08-25/G25_ROUTE_PREFLIGHT.json",
+    "sha256": "a7d590ec29dccb34d7cd790061966c922f7ab9a1eb244732e883b5433e5e64e3"
+  },
+  "prospecting_gate": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/prospecting_v1/PREFREEZE_GATE_VALIDATION.json",
+    "sha256": "7a633744caece0c84c39ff69d81b77b930e936a1da9479d89670e642b4e51331"
+  },
+  "queries": {
+    "ps_default": "select default_flag,pl_refname,pl_name,hostname,discoverymethod,disc_year,disc_facility,pl_orbper,pl_orbpererr1,pl_orbpererr2,pl_orbperlim,pl_orbper_reflink,sy_snum,sy_pnum,rv_flag,tran_flag,ima_flag,micro_flag from ps where default_flag=1 order by pl_name",
+    "pscomppars": "select pl_name,hostname,discoverymethod,disc_year,disc_facility,pl_orbper,pl_orbpererr1,pl_orbpererr2,pl_orbperlim,pl_orbper_reflink,sy_snum,sy_pnum,rv_flag,tran_flag,ima_flag,micro_flag from pscomppars order by pl_name"
+  },
+  "route_id": "BENFORD-PERIODS-V1",
+  "runtime_interpreter": {
+    "executable": "/opt/homebrew/Cellar/python@3.14/3.14.6/Frameworks/Python.framework/Versions/3.14/bin/python3.14",
+    "python_version": "3.14.6"
+  },
+  "safety_kit_manifest": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/safety_kit_v1/gold_manifest.json",
+    "sha256": "b34b2c4d951e8256e7eed5e1de3f287561580b74e86e662c63d93f2c107890ef"
+  },
+  "safety_kit_qualification": {
+    "path": "/Users/bo/data/adp/investigations/benford_exoplanet_periods_2026-08-25_v1/safety_kit_v1/qualification.json",
+    "sha256": "7e5dcc3c748f29deb85814984296cf9a6a99a97804a949a66e0ef9e37e58f270"
+  },
+  "schema": "aletheia.benford-exoplanet-frozen-manifest.v2",
+  "status": "FROZEN_BEFORE_TARGET_ACCESS",
+  "target_outcomes_opened": false
+}
